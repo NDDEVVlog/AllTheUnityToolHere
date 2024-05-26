@@ -72,3 +72,4 @@ The Scene Switcher Tool is a custom Unity Editor tool designed to simplify the p
 1. Download the "SceneSwitcherTool.unitypackage" at [Google Drive](https://drive.google.com/file/d/1wcIiwV_ALzPnVFkPxEoZRPsTzWlzoAdY/view?usp=sharing)
 2. Place the unitypackage in the project tab in Unity Project.
 
+# Developer : https://github.com/billtruong003
