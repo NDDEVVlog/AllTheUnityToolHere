@@ -1,5 +1,8 @@
 # Colored Foldout Group for Odin Inspector
 
+**Author: NDDEVGAME**
+**Origin link :https://github.com/NDDEVVlog/ColoredFoldGroupAttribute**
+
 A customizable foldout group for Odin Inspector that allows you to set custom colors for foldout headers, including hex color support and a persistent color picker.
 
 ## Features
